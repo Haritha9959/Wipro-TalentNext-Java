@@ -4,5 +4,5 @@
 /**
  * 
  */
-module TM01Project {
+module HourPlanForM1 {
 }
